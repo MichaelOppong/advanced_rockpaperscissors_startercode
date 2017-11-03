@@ -20,11 +20,27 @@
 
 //GLOBAL VARIABLES
 
-
-
-//FUNCTIONS
-
-
-
 // DOCUMENT READY FUNCTION
+$( document ).ready(function() {
+//Click Function when shoot is clicked
 
+      //Takes in User Choice from the input box and stores it in a variable
+   
+      
+      //Display the user choice to the screen
+     
+      //Generates a random index uses randomIndex to select random element from the Array
+      
+   
+       //Display the computer choice to the screen
+   
+      
+      // Compares the user's choice to the user choice
+     
+       //Displays the winner choice to the screen
+     
+      
+      // Clears the input box
+     
+
+});
